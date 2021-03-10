@@ -1,0 +1,2 @@
+git remote add WS_day1 git@github.com:myuser/project.git
+git remote -v
